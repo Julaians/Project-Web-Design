@@ -8,7 +8,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     // Fallback user if currentUser is undefined in auth.js
     if (typeof currentUser === 'undefined' || !currentUser) {
-        currentUser = JSON.parse(localStorage.getItem('planit_session')) ||
+        currentUser = JSON.parse(localStorage.getItem('ots_session')) ||
                       JSON.parse(localStorage.getItem('currentUser')) ||
                       { id: 'default_user', username: 'User' };
     }

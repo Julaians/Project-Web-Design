@@ -39,7 +39,7 @@ function setupSidebar() {
     const current = page => (currentPage === page ? 'aria-current="page"' : '');
 
     sidebar.innerHTML = `
-        <p class="mb-4 text-2xl font-bold text-indigo-400">PlanIt.</p>
+        <p class="mb-4 text-2xl font-bold text-indigo-400">OTS.</p>
         <p class="mb-4 border-b border-slate-600 pb-3 text-sm text-white">
             Logged in as:<br><strong class="text-base">${escapeHTML(currentUser.username)}</strong>
         </p>

@@ -1,5 +1,5 @@
-const USERS_KEY = 'planit_users';
-const SESSION_KEY = 'planit_session';
+const USERS_KEY = 'ots_users';
+const SESSION_KEY = 'ots_session';
 
 function getUsers() {
     return JSON.parse(localStorage.getItem(USERS_KEY)) || [];

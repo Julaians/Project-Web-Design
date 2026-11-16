@@ -4,7 +4,7 @@
    returns only the tasks that belong to the logged-in user.
    ========================================================== */
 
-const TASKS_KEY = 'planit_tasks';
+const TASKS_KEY = 'ots_tasks';
 let allTasks = JSON.parse(localStorage.getItem(TASKS_KEY)) || [];
 
 function getUserTasks() {

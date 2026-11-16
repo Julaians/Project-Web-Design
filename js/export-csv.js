@@ -22,7 +22,7 @@ function exportToCSV() {
     const blob = new Blob([[headers.join(','), ...csvRows].join('\n')], { type: 'text/csv;charset=utf-8;' });
     const link = document.createElement('a');
     link.href = URL.createObjectURL(blob);
-    link.download = `planit_${currentUser.username}_tasks.csv`;
+    link.download = `OnlineTaskScheduler_${currentUser.username}_tasks.csv`;
     link.click();
     URL.revokeObjectURL(link.href);
     showNotification('Tasks exported to CSV successfully!');
