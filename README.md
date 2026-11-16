@@ -1,10 +1,10 @@
-# PlanIt
+# OnlineTaskScheduler OTS
 
 Aplikasi perencana tugas dan jadwal berbasis web untuk mengatur kegiatan belajar, pekerjaan, dan urusan pribadi dalam satu tempat.
 
 ## Deskripsi
 
-PlanIt membantu pengguna mencatat tugas, menentukan waktu pengerjaannya, dan memantau mana yang sudah selesai, mana yang akan jatuh tempo, dan mana yang terlambat. Setiap pengguna memiliki akun sendiri, sehingga daftar tugas antarpengguna tidak tercampur.
+OTS membantu pengguna mencatat tugas, menentukan waktu pengerjaannya, dan memantau mana yang sudah selesai, mana yang akan jatuh tempo, dan mana yang terlambat. Setiap pengguna memiliki akun sendiri, sehingga daftar tugas antarpengguna tidak tercampur.
 
 Aplikasi ini dibuat dengan HTML, JavaScript murni (tanpa framework), dan Tailwind CSS untuk tampilan. Data tugas dan akun disimpan di `localStorage` browser, sedangkan template tugas siap pakai disediakan oleh API sederhana dari `json-server`.
 
@@ -82,10 +82,14 @@ Aplikasi ini dibuat dengan HTML, JavaScript murni (tanpa framework), dan Tailwin
 ### Struktur Folder
 
 ```
-planit/
+Project WebDesign/
 ├── index.html        # mengarahkan ke pages/login.html
 ├── db.json           # data template untuk json-server
+├── .gitignore
+├── package-lock.json
 ├── package.json
+├── README.md
+├── node_modules/ #gunakan npm install
 ├── pages/
 │   ├── login.html
 │   ├── register.html
