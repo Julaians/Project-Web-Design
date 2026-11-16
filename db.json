@@ -1,0 +1,47 @@
+{
+  "templates": [
+    { "title": "Dashboard Redesign Research", "date": "2026-11-08", "startTime": "09:00", "endTime": "10:30", "category": "Study", "priority": "Medium" },
+    { "title": "Dashboard Redesign Moodboard", "date": "2026-11-09", "startTime": "10:00", "endTime": "11:30", "category": "Work", "priority": "Low" },
+    { "title": "API Integration Requirements", "date": "2026-11-10", "startTime": "13:00", "endTime": "14:30", "category": "Work", "priority": "High" },
+    { "title": "API Integration Postman Setup", "date": "2026-11-11", "startTime": "09:00", "endTime": "10:00", "category": "Study", "priority": "Medium" },
+    { "title": "Marketing Campaign Brief", "date": "2026-11-11", "startTime": "14:00", "endTime": "15:30", "category": "Work", "priority": "Medium" },
+    { "title": "Marketing Campaign Audience Survey", "date": "2026-11-12", "startTime": "11:00", "endTime": "12:00", "category": "Personal", "priority": "Low" },
+    { "title": "Database Migration Inventory", "date": "2026-11-12", "startTime": "15:00", "endTime": "16:30", "category": "Study", "priority": "High" },
+    { "title": "Database Migration Schema Audit", "date": "2026-11-13", "startTime": "09:30", "endTime": "11:00", "category": "Work", "priority": "High" },
+    { "title": "Team Meeting Notes Cleanup", "date": "2026-11-14", "startTime": "08:00", "endTime": "09:00", "category": "Personal", "priority": "Low" },
+    { "title": "Weekly Report Draft", "date": "2026-11-14", "startTime": "13:00", "endTime": "14:30", "category": "Work", "priority": "Medium" },
+
+    { "title": "Dashboard Redesign Color Palette", "date": "2026-11-17", "startTime": "17:00", "endTime": "18:00", "category": "Work", "priority": "Medium" },
+    { "title": "API Integration Token Refresh", "date": "2026-11-17", "startTime": "17:30", "endTime": "18:30", "category": "Work", "priority": "High" },
+    { "title": "Marketing Campaign Email Draft", "date": "2026-11-17", "startTime": "18:00", "endTime": "19:00", "category": "Work", "priority": "Medium" },
+    { "title": "Database Migration Test Data", "date": "2026-11-17", "startTime": "18:30", "endTime": "19:30", "category": "Study", "priority": "High" },
+    { "title": "Study Group Review Session", "date": "2026-11-17", "startTime": "19:00", "endTime": "20:00", "category": "Study", "priority": "Medium" },
+    { "title": "Presentation Slide Practice", "date": "2026-11-17", "startTime": "19:30", "endTime": "20:30", "category": "Study", "priority": "High" },
+    { "title": "Gym Workout", "date": "2026-11-17", "startTime": "20:00", "endTime": "21:00", "category": "Personal", "priority": "Low" },
+    { "title": "Code Review for Teammates", "date": "2026-11-17", "startTime": "20:30", "endTime": "21:30", "category": "Work", "priority": "Medium" },
+    { "title": "Read Web Design Articles", "date": "2026-11-17", "startTime": "21:00", "endTime": "22:00", "category": "Study", "priority": "Low" },
+    { "title": "Plan Tomorrow's Schedule", "date": "2026-11-17", "startTime": "22:00", "endTime": "23:30", "category": "Personal", "priority": "Low" },
+
+    { "title": "Dashboard Redesign Icon Set", "date": "2026-11-18", "startTime": "08:30", "endTime": "10:00", "category": "Work", "priority": "Medium" },
+    { "title": "Dashboard Redesign Typography Review", "date": "2026-11-18", "startTime": "10:00", "endTime": "11:00", "category": "Study", "priority": "Low" },
+    { "title": "API Integration Pagination", "date": "2026-11-18", "startTime": "09:00", "endTime": "11:30", "category": "Work", "priority": "High" },
+    { "title": "API Integration Caching Strategy", "date": "2026-11-18", "startTime": "13:00", "endTime": "14:30", "category": "Study", "priority": "Medium" },
+    { "title": "Marketing Campaign Landing Page", "date": "2026-11-18", "startTime": "11:00", "endTime": "13:00", "category": "Work", "priority": "High" },
+    { "title": "Marketing Campaign Video Script", "date": "2026-11-18", "startTime": "14:00", "endTime": "15:30", "category": "Personal", "priority": "Low" },
+    { "title": "Database Migration Index Optimization", "date": "2026-11-18", "startTime": "15:00", "endTime": "17:00", "category": "Work", "priority": "High" },
+    { "title": "Database Migration Staging Run", "date": "2026-11-18", "startTime": "16:00", "endTime": "18:00", "category": "Work", "priority": "High" },
+    { "title": "Group Project Meeting", "date": "2026-11-18", "startTime": "18:30", "endTime": "20:00", "category": "Study", "priority": "Medium" },
+    { "title": "Grocery Shopping", "date": "2026-11-18", "startTime": "19:00", "endTime": "20:00", "category": "Personal", "priority": "Low" },
+
+    { "title": "Dashboard Redesign Prototype", "date": "2026-11-19", "startTime": "09:00", "endTime": "12:00", "category": "Work", "priority": "High" },
+    { "title": "Dashboard Redesign User Testing", "date": "2026-11-20", "startTime": "13:00", "endTime": "15:00", "category": "Study", "priority": "Medium" },
+    { "title": "API Integration Load Balancing", "date": "2026-11-21", "startTime": "10:00", "endTime": "12:00", "category": "Work", "priority": "High" },
+    { "title": "API Integration Final Review", "date": "2026-11-22", "startTime": "14:00", "endTime": "15:30", "category": "Work", "priority": "Medium" },
+    { "title": "Marketing Campaign Launch Plan", "date": "2026-11-23", "startTime": "09:30", "endTime": "11:00", "category": "Work", "priority": "High" },
+    { "title": "Marketing Campaign Performance Report", "date": "2026-11-24", "startTime": "13:00", "endTime": "14:30", "category": "Work", "priority": "Medium" },
+    { "title": "Database Migration Go-Live", "date": "2026-11-25", "startTime": "20:00", "endTime": "23:00", "category": "Work", "priority": "High" },
+    { "title": "Database Migration Monitoring", "date": "2026-11-26", "startTime": "10:00", "endTime": "12:00", "category": "Study", "priority": "Medium" },
+    { "title": "Final Presentation Rehearsal", "date": "2026-11-28", "startTime": "15:00", "endTime": "17:00", "category": "Study", "priority": "High" },
+    { "title": "Project Retrospective", "date": "2026-11-30", "startTime": "11:00", "endTime": "12:30", "category": "Personal", "priority": "Low" }
+  ]
+}
